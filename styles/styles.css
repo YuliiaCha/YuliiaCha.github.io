@@ -215,3 +215,137 @@ padding: 0 0 0 12px;
 .skills_list_item {
 color: white;
 }
+
+.portfolio {
+font-style: normal;
+font-weight: 700px;
+font-size: 22px;
+line-height: 27px;
+color: #1D1B38;
+margin-right: 4px;
+}
+
+.portfoliol {
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 24px;
+color: #1D1B38;
+}
+
+.chess1 {
+display: block;
+width: 200px;
+height: 50px;
+line-height: 50px;
+border: 2px solid white;
+text-align: center;
+text-decoration: none;
+color: white;
+border-radius: 10px;
+background-color: #1D1B38;
+}
+
+.chess1:hover {
+border: 2px solid #808DFF;
+color: #1D1B38;
+background-color: #808DFF;
+}
+
+.left {
+width: 27%;
+display: inline-block;
+}
+
+.circle {
+display: block;
+width: 200px;
+height: 50px;
+line-height: 50px;
+border: 2px solid white;
+margin: 0 auto;
+text-align: center;
+text-decoration: none;
+color: white;
+border-radius: 10px;
+background-color: #1D1B38;
+margin-left: 35px;
+}
+
+.circle:hover {
+border: 2px solid #C687F8;
+color: #1D1B38;
+background-color: #C687F8;
+}
+
+.center {
+width: 25%;
+display: inline-block;
+}
+
+.burger {
+display: block;
+width: 200px;
+height: 50px;
+line-height: 50px;
+border: 2px solid white;
+text-align: center;
+text-decoration: none;
+color: white;
+border-radius: 10px;
+background-color: #1D1B38;
+margin-left: 35px;
+}
+
+.burger:hover {
+border: 2px solid #F5F18D;
+color: #1D1B38;
+background-color: #F5F18D;
+}
+
+.right {
+width: 30%;
+display: inline-block;
+}
+
+.catalog {
+display: block;
+width: 200px;
+height: 50px;
+line-height: 50px;
+border: 2px solid white;
+text-align: center;
+text-decoration: none;
+color: white;
+border-radius: 10px;
+background-color: #1D1B38;
+margin-left: 35px;
+}
+
+.catalog:hover {
+border: 2px solid #FAA8C1;
+color: #1D1B38;
+background-color: #FAA8C1;
+}
+
+.pract_landing {
+display: block;
+width: 200px;
+height: 50px;
+line-height: 50px;
+border: 2px solid white;
+text-align: center;
+text-decoration: none;
+color: white;
+border-radius: 10px;
+background-color: #1D1B38;
+}
+
+.pract_landing:hover {
+border: 2px solid #A3EEC1;
+color: #1D1B38;
+background-color: #A3EEC1;
+}
+
+
+}
